@@ -1,0 +1,25 @@
+{
+  "name": "static-shock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddychelene/static-shock.git"
+  },
+  "keywords": [],
+  "author": "Eddy Chelene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddychelene/static-shock/issues"
+  },
+  "homepage": "https://github.com/eddychelene/static-shock#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

@@ -1,5 +1,11 @@
+import TopMenu from './TopMenu';
+
 function Home() {
-    return <>Aleluia</>
+    return (
+        <>
+            <TopMenu/>
+        </>
+    );
 }
 
 export default Home;
